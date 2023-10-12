@@ -14,3 +14,17 @@ This is the assignment and project files for USC-22Fall-CSCI5⃣️7⃣️6⃣�
 -  DWT Compression (image compression using wavelets)
    -  read an RGB file and convert the image pixel to a DWT representation (as used in the JPEG2000 implementation) for each channel
  
+
+
+
+-  Final Project
+   -  block-based motion compensation
+   -  background/foreground detection
+   -  graphics transformations
+   -  creating panoramas by image stitching
+   
+   -  At the heart of it is to
+      -  detect **foreground/background regions and objects per frame**
+      -  **create intermediary data structures** (like a panorama) which can then be used to
+      -  **create novel video applications**.
+ 
