@@ -17,7 +17,7 @@ This is the assignment and project files for USC-22Fall-CSCI5⃣️7⃣️6⃣�
 
 
 
--  Final Project
+-  panorama generation from video (Final Project)
    -  block-based motion compensation
    -  background/foreground detection
    -  graphics transformations
