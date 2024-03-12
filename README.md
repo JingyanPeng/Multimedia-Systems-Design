@@ -17,7 +17,7 @@ This is the assignment and project files for USC-2️⃣2️⃣Fall-CSCI5⃣️7
 
 
 
--  panorama generation from video [Final Project]
+-  Panorama generation from video [Final Project]
    -  block-based motion compensation
    -  background/foreground detection
    -  graphics transformations
