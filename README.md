@@ -27,4 +27,10 @@ This is the assignment and project files for USC-2️⃣2️⃣Fall-CSCI5⃣️7
       -  detect **foreground/background regions and objects per frame**
       -  **create intermediary data structures** (like a panorama) which can then be used to
       -  **create novel video applications**.
- 
+
+      Version 1 (failed)
+        · using MotionVector
+        · hard to tag
+      Version 2 (final)
+        · using rembg (unet.py & util.py)
+        · Rembg is a tool to remove images background.
